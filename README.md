@@ -1,2 +1,2 @@
 # Averoxz
-Multi Vemdor E commerce Platform
+Multi Vendor E commerce Platform
